@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning OOP & Express.js
 
 
-Got questions or would to reach out?
+## Got questions or wwant to connect?
 
 Email: chasenicks81@gmail.com
 Linkedln: [ChaseNicks](https://www.linkedin.com/in/chase-nicks-488a32174/)
