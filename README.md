@@ -18,8 +18,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ## Whats going on with me?
 
