@@ -18,12 +18,17 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+## Whats going on with me?
+
+- 🔭 I’m currently working a Team Profile Generator
+- 🌱 I’m currently learning OOP & Express.js
+
+
+Got questions or would to reach out?
+
+Email: chasenicks81@gmail.com
+Linkedln: [ChaseNicks](https://www.linkedin.com/in/chase-nicks-488a32174/)
 
