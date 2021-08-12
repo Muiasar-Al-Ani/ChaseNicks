@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/ChaseNicks">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChaesNicks&line_height=27&count_private=false&title_color=57A6FF&text_color=c9cacc&icon_color=57A6FF&bg_color=0D1116&border_color=57A6FF" alt="Chase's Github Statistics"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChaseNicks&line_height=27&count_private=false&title_color=57A6FF&text_color=c9cacc&icon_color=57A6FF&bg_color=0D1116&border_color=57A6FF" alt="Chase's Github Statistics"/>
 </a>
 
 - 🔭 I’m currently working on ...
