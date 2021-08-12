@@ -30,5 +30,6 @@
 ## Got questions or wwant to connect?
 
 Email: chasenicks81@gmail.com
+<br>
 Linkedln: [ChaseNicks](https://www.linkedin.com/in/chase-nicks-488a32174/)
 
